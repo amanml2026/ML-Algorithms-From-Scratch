@@ -35,6 +35,8 @@ The goal of this repository is to build a deep understanding of how machine lear
 
 * Logistic Regression
 * Perceptron
+* K-Nearest Neighbors (KNN)
+* Linear Support Vector Machine (Linear SVM)
 * Sigmoid Function Implementation
 
 ### Optimization Algorithms
@@ -46,19 +48,33 @@ The goal of this repository is to build a deep understanding of how machine lear
 
 ---
 
+## 🧠 Concepts Covered
+
+* Cost Functions
+* Loss Functions
+* Gradient Descent
+* Regularization
+* Feature Scaling
+* Distance Metrics
+* Decision Boundaries
+* Margin Maximization
+* Optimization Techniques
+
+---
+
 ## 🛠 Technologies Used
 
 * Python
 * NumPy
-* Matplotlib and other visualization libraries. (where applicable)
+* Pandas
+* Matplotlib
 * Jupyter Notebook / Python Scripts
 
 ---
 
-
 ## 🎯 Why This Repository?
 
-I am kinda guy which loves to know about what's happening underneath the layers rather than ONLY using tools or frameworks.
+I am the kind of person who enjoys understanding what happens underneath the layers rather than only using frameworks and libraries.
 
 This repository focuses on:
 
@@ -66,22 +82,20 @@ This repository focuses on:
 * Algorithm implementation
 * Optimization techniques
 * Learning by building
+* Understanding models from first principles
 
-Every implementation is written from scratch to strengthen core machine learning fundamentals.
+Every implementation is written from scratch to strengthen core Machine Learning fundamentals.
 
 ---
 
-## 📖 Learning Roadmap
+---
 
-This repository is part of a journey toward mastering:
+## 🔮 Planned Implementations
 
-1. Mathematics for Machine Learning
-2. Machine Learning Fundamentals 
-3. Deep Learning (in future)
-4. MLOps (in future)
-5. AI Systems Engineering (in future)
-6. Advanced AI Research (in future)
-
+* Decision Trees
+* Random Forests
+* K-Means Clustering
+* Kernel SVM
 ---
 
 ## 🤝 Contributions
@@ -97,6 +111,13 @@ If you find a bug or have an idea for improvement, feel free to open an issue or
 If you found this repository useful, consider giving it a star.
 
 It helps others discover the project and motivates future development.
+
+---
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
+
 
 ---
 
