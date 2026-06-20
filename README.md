@@ -38,6 +38,7 @@ The goal of this repository is to build a deep understanding of how machine lear
 * K-Nearest Neighbors (KNN)
 * Linear Support Vector Machine (Linear SVM)
 * Sigmoid Function Implementation
+* Decision Tree Classifier
 
 ### Optimization Algorithms
 
