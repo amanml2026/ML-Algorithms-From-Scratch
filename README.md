@@ -91,12 +91,6 @@ Every implementation is written from scratch to strengthen core Machine Learning
 
 ---
 
-## 🔮 Planned Implementations
-
-* Decision Trees
-* Random Forests
-* K-Means Clustering
-* Kernel SVM
 ---
 
 ## 🤝 Contributions
