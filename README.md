@@ -39,6 +39,7 @@ The goal of this repository is to build a deep understanding of how machine lear
 * Linear Support Vector Machine (Linear SVM)
 * Sigmoid Function Implementation
 * Decision Tree Classifier
+* Random forest classifier
 
 ### Optimization Algorithms
 
@@ -86,10 +87,6 @@ This repository focuses on:
 * Understanding models from first principles
 
 Every implementation is written from scratch to strengthen core Machine Learning fundamentals.
-
----
-
----
 
 ---
 
